@@ -1,0 +1,43 @@
+@media (min-width: 700px) {
+  /* HEADER */
+  .header-overlay {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .navigation {
+    max-width: 35%;
+  }
+
+  .navigation a {
+    width: 80%;
+    margin: 20px auto;
+  }
+
+  .logo {
+    max-width: 35%;
+  }
+
+  .logo img {
+    width: 90%;
+  }
+
+  /* HEADER */
+
+  /* MAIN */
+
+  main {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  main section {
+    max-width: 600px;
+  }
+
+  .endereco {
+    margin-top: 0;
+  }
+
+  /* MAIN */
+}
