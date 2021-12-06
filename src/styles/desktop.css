@@ -18,6 +18,12 @@
     max-width: 35%;
   }
 
+  .logo p {
+    line-height: 1.5em;
+    font-size: 2em;
+    text-shadow: 0 0 6px black;
+  }
+
   .logo img {
     width: 90%;
   }
